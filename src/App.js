@@ -23,6 +23,7 @@ function App() {
       <div className="font-sans">
         <Header />
         <Routes>
+             <Route path="/MRAFIQ" element={<HomePage />} />
           <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/features" element={<FeaturesPage />} />
