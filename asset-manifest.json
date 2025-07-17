@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MRAFIQ/static/css/main.cc7a8e72.css",
+    "main.css": "/MRAFIQ/static/css/main.8f97ecb0.css",
     "main.js": "/MRAFIQ/static/js/main.113bf1b8.js",
     "static/js/453.e85d61bc.chunk.js": "/MRAFIQ/static/js/453.e85d61bc.chunk.js",
     "index.html": "/MRAFIQ/index.html",
-    "main.cc7a8e72.css.map": "/MRAFIQ/static/css/main.cc7a8e72.css.map",
+    "main.8f97ecb0.css.map": "/MRAFIQ/static/css/main.8f97ecb0.css.map",
     "main.113bf1b8.js.map": "/MRAFIQ/static/js/main.113bf1b8.js.map",
     "453.e85d61bc.chunk.js.map": "/MRAFIQ/static/js/453.e85d61bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc7a8e72.css",
+    "static/css/main.8f97ecb0.css",
     "static/js/main.113bf1b8.js"
   ]
 }
