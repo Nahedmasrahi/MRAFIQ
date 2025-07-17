@@ -14,6 +14,7 @@ const HomePage = () => {
           className="absolute top-0 left-0 w-full h-full object-cover z-[-1]"
         >
           <source src="/6700091-uhd_3840_2160_25fps.mp4" type="video/mp4" />
+
         </video>
 
         {/* تغميق الفيديو */}
@@ -63,4 +64,4 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
+export default HomePage;  
